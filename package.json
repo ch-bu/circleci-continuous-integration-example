@@ -1,0 +1,22 @@
+{
+  "name": "circleci-continuous-integration-example",
+  "version": "1.0.0",
+  "description": "A first test on continuous integration with circleci",
+  "main": "app/sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ch-bu/circleci-continuous-integration-example.git"
+  },
+  "author": "Christian Burkhart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ch-bu/circleci-continuous-integration-example/issues"
+  },
+  "homepage": "https://github.com/ch-bu/circleci-continuous-integration-example#readme",
+  "devDependencies": {
+    "jest": "^22.2.2"
+  }
+}
