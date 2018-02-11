@@ -2,6 +2,6 @@ function sum(a, b) {
   return a + b;
 }
 
-// Random
+// Randomasdf
 
 module.exports = sum;
